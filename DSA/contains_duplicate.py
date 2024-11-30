@@ -14,6 +14,7 @@ Example 2:
 Input: nums = [1, 2, 3, 4]
 
 Output: false
+
 """
 
 from typing import List
