@@ -14,7 +14,7 @@ class Solution:
 
 if __name__ == "__main__":
     s = "racecar"
-    t = "carracee"
+    t = "carrace"
     solution = Solution()
     result = solution.isAnagram(s, t)
     print("Result: ", result)
