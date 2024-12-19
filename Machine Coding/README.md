@@ -1,4 +1,4 @@
-# Multiplex Management System
+# Multiplex Management System - PP
 
 This is a simple Python-based system for managing multiplexes and movie ticket bookings. The system supports:
 
